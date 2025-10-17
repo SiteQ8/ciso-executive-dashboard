@@ -5,7 +5,7 @@
 ![Docker](https://img.shields.io/badge/docker-ready-blue.svg)
 ![Security](https://img.shields.io/badge/security-A-green.svg)
 
-> **Open-source CISO Executive Dashboard for comprehensive cybersecurity visibility, risk management, and compliance tracking**
+> **Open-source CISO Executive Dashboard for cybersecurity visibility, risk management, and compliance tracking**
 
 A modern, real-time cybersecurity dashboard designed for Chief Information Security Officers (CISOs) and security executives to monitor, analyze, and report on their organization's security posture. **Fully mobile-responsive** with a mobile-first design approach.
 
