@@ -9,7 +9,7 @@
 
 A modern, real-time cybersecurity dashboard designed for Chief Information Security Officers (CISOs) and security executives to monitor, analyze, and report on their organization's security posture. **Fully mobile-responsive** with a mobile-first design approach.
 
-## 🌟 Features
+## Features
 
 - **Real-time Security Metrics Visualization** - Monitor key security indicators in real-time
 - **Multi-Framework Compliance Tracking** - Support for ISO 27001, SOC 2, NIST CSF, PCI DSS, and more
@@ -22,7 +22,7 @@ A modern, real-time cybersecurity dashboard designed for Chief Information Secur
 - **Docker Containerization** - Easy deployment and scalability
 - **Mobile-First Responsive Design** - Optimized for smartphones, tablets, and desktops
 
-## 📊 Dashboard Sections
+## Dashboard Sections
 
 1. **Executive Overview** - High-level security posture and KPIs
 2. **Risk & Threat Exposure** - Active threats and risk metrics
@@ -33,7 +33,7 @@ A modern, real-time cybersecurity dashboard designed for Chief Information Secur
 7. **Human Risk & Awareness** - Security training and phishing simulations
 8. **Third-Party Risk** - Vendor risk assessments
 
-## 📱 Mobile-First Design
+## Mobile-First Design
 
 The dashboard is built with a **mobile-first approach**, ensuring excellent user experience on all devices:
 
@@ -50,7 +50,7 @@ The dashboard is built with a **mobile-first approach**, ensuring excellent user
 - Responsive charts optimized for small screens
 - Fast loading with lazy-loaded sections
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 - React 18+ with TypeScript
@@ -69,7 +69,7 @@ The dashboard is built with a **mobile-first approach**, ensuring excellent user
 - Nginx reverse proxy
 - GitHub Actions CI/CD
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -101,7 +101,7 @@ docker-compose up -d
 - API Documentation: http://localhost:8000/docs
 - Default credentials: admin / changeme
 
-## 📖 Configuration
+## Configuration
 
 ### API Integrations
 
@@ -129,7 +129,7 @@ abuseipdb:
 
 See [Configuration Guide](docs/configuration.md) for detailed setup instructions.
 
-## 📡 API Endpoints
+## API Endpoints
 
 The dashboard exposes a RESTful API for data integration:
 
@@ -141,7 +141,7 @@ The dashboard exposes a RESTful API for data integration:
 
 Full API documentation: http://localhost:8000/docs
 
-## 🔌 Integrations
+## Integrations
 
 ### Supported Threat Intelligence Feeds
 
@@ -160,7 +160,7 @@ Full API documentation: http://localhost:8000/docs
 - AWS CloudWatch
 - Custom syslog sources
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────┐
@@ -183,7 +183,7 @@ Full API documentation: http://localhost:8000/docs
     └──────────────┘
 ```
 
-## 🧪 Development
+## Development
 
 ### Local Development Setup
 
@@ -224,7 +224,7 @@ Test the mobile-responsive design:
 # - iPad Pro (1024x1366)
 ```
 
-## 📚 Documentation
+## Documentation
 
 - [Installation Guide](docs/installation.md)
 - [Configuration Guide](docs/configuration.md)
@@ -234,7 +234,7 @@ Test the mobile-responsive design:
 - [Integration Guide](docs/integrations.md)
 - [Mobile Development Guide](docs/mobile-guide.md)
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
@@ -244,30 +244,22 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 🔒 Security
+## Security
 
 For security issues, please see [SECURITY.md](SECURITY.md) for our security policy and how to report vulnerabilities.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with open-source threat intelligence feeds
 - Inspired by industry-standard security frameworks (NIST, ISO, CIS)
 - Community-driven development
 
-## 📧 Contact
+## Contact
 
 - Project Link: https://github.com/SiteQ8/ciso-executive-dashboard
 - Issues: https://github.com/SiteQ8/ciso-executive-dashboard/issues
 - Discussions: https://github.com/SiteQ8/ciso-executive-dashboard/discussions
-
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star!
-
----
-
-**Made with ❤️ for the cybersecurity community**
